@@ -1,0 +1,2 @@
+# econometrics-logit-probit
+эконометрика
